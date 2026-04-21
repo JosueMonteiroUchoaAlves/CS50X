@@ -1,0 +1,2 @@
+# Flappy Toucan
+My Scratch project, CS50X Flappy Toucan, is a skill-based arcade game modeled after the "Flappy Bird" mechanic . Players control a toucan navigating through a series of vertical pipe obstacles that move across the screen. To play, you must press the Space key or click the mouse to "flap" the bird's wings, which provides a brief upward lift against the constant pull of gravity. The objective is to achieve the highest score possible by passing through the gaps between pipes without making contact with the obstacles or the ground.
